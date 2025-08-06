@@ -2,12 +2,14 @@
 
 **`Software Developer/Content Creator/Founder`**
 
+### Show your support
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
 # 💫 About Me:
 I’m a Full-Stack Developer, AI Software Developer, and Game Developer who loves mixing creativity with code. All my projects are fully open source because I believe tech should be shared, transparent, and collaborative. Whether I’m building apps, AI tools, or games, my goal is always to solve real-world problems with creative and accessible technology. 👨🏻‍💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armsulaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armendsulaj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Redissh) 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "21px" width= "115px" ></a>
 
 # 💻 Tech Stack:
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
