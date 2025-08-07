@@ -3,7 +3,7 @@
 **`Software Developer / Content Creator / Founder`**
 
 ### Show your support
-<a href="buymeacoffee.com/redissh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://buymeacoffee.com/redissh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 # 💫 About Me:
 I’m a Full-Stack Developer, AI Software Developer, and Game Developer who loves mixing creativity with code. All my projects are fully open source because I believe tech should be shared, transparent, and collaborative. Whether I’m building apps, AI tools, or games, my goal is always to solve real-world problems with creative and accessible technology. 👨🏻‍💻
